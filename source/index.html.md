@@ -1,5 +1,5 @@
 ---
-title: Pengembangan Apliksi Platform Kusus
+title: Sistem Informasi Berbasis WEB
 
 language_tabs: # must be one of #
 - Code
@@ -8,7 +8,7 @@ toc_footers:
   - <a href='#'>Yan Yan Sofiyan, M.Kom.</a>
   - Teknik Informatika-STMIK Sumedang
   - <a href='https://github.com/lord/slate'> Documentation Powered by Slate</a>
-  - Copyright © 2018 
+  - Copyright © 2019 
 
 
 search: true
